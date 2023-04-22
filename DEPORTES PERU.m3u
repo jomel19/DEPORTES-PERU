@@ -95,9 +95,18 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1113093
 #EXTINF:0,Movistar Deportes HD OPC 2
 #EXTGRP:Deportes
 http://168.121.46.90:8000/play/a01x/index.m3u8
-#EXTINF:0,=== DEPORTES ===
+#EXTINF:0,D SPORTS 
 #EXTGRP:Deportes
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/26827
+http://45.5.117.172:8000/play/a047/index.m3u8
+#EXTINF:0,SKY SPORTS 
+#EXTGRP:Deportes
+http://45.5.117.172:8000/play/a05s/index.m3u8
+#EXTINF:0,TUDN MX
+#EXTGRP:Deportes
+http://45.5.117.172:8000/play/a05p/index.m3u8
+#EXTINF:0,BEIN SPORTS
+#EXTGRP:Deportes
+http://45.5.117.172:8000/play/a042/index.m3u8
 #EXTINF:0,Dep|| Adrenalina Sports.
 #EXTGRP:Deportes
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/104315
