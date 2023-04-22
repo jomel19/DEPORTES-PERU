@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,LIGA 1 MAX  CONTACTO DEPOR
+#EXTGRP:Deportes
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 #EXTINF:0,LIGA 1 MAX JUNIOR
 #EXTGRP:Deportes
 http://latvonlive.com:33612/play/Lu38h7aCzkrggdKVPIs4kLwtIZzKV0kHXJspgocokxM/ts
