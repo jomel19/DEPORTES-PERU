@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,LIGA 1 MAX JUNIOR
+#EXTGRP:Deportes
+http://latvonlive.com:33612/play/Lu38h7aCzkrggdKVPIs4kLwtIZzKV0kHXJspgocokxM/ts
 #EXTINF:0,LIGA 1 MAX SET 10
 #EXTGRP:Deportes
 http://tv.nousiptv.com:8080/emontoya/6900/1151341
@@ -71,13 +74,13 @@ http://go-nextlevel.xyz:25461/Valentin/Valentin/256759
 #EXTINF:0,GOL PERU HD
 #EXTGRP:Deportes
 http://play.flamaplus.tv:80/JAV0707CAR/J7vumAnmAFxA/772
-#EXTINF:0,GOL PERU HD MAYO
+#EXTINF:0,GOL PERU HD
 #EXTGRP:Deportes
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1194944
+http://168.121.46.90:8000/play/a024/index.m3u8
 #EXTINF:0,GOL PERU FTV
 #EXTGRP:Deportes
 http://playhispano.org:25461/FRANKTV/YrhoSVBK5g/86483
-#EXTINF:0,LIGA 1 MAX 07-23
+#EXTINF:0,GOL  PERU HD
 #EXTGRP:Deportes
 http://odenfull.co:2086/pikit99087dfr/dvnj32a6ZUvL/215287
 #EXTINF:0,GOL PERU HD JULY
@@ -91,7 +94,7 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1152848
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1113093
 #EXTINF:0,Movistar Deportes HD OPC 2
 #EXTGRP:Deportes
-http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0MQJ50qg6snqsjlR2DythL0/ts
+http://168.121.46.90:8000/play/a01x/index.m3u8
 #EXTINF:0,=== DEPORTES ===
 #EXTGRP:Deportes
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/26827
